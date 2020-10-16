@@ -1,6 +1,5 @@
 ### Hi I'm Whittington
 
-## About me
 I'm a computer graphics programmer. I'm interested in all things computer graphics related.
 
 <!--
