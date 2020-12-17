@@ -1,4 +1,4 @@
-### Hi I'm Whittington
+### Hi, I'm Whittington
 
 I'm a computer graphics programmer. I'm interested in all things computer graphics related.
 
