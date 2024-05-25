@@ -1,6 +1,6 @@
 ### Hi, I'm Whittington
 
-I'm a computer graphics programmer. I'm interested in all things computer graphics related.
+I'm a software engineer. I like making tools and utilities to make people's lives easier.
 
 <!--
 **josephwhittington/josephwhittington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
